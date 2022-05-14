@@ -1,5 +1,5 @@
-rotulo1.innerHTML = "Inserte precio unitario: ";
-rotulo2.innerHTML = "Inserte cantidad en cifras: ";
+rotulo1.innerHTML = "Inserte precio unitario del producto: ";
+rotulo2.innerHTML = "Inserte cantidad del producto en cifras: ";
 rotulo3.innerHTML = "Inserte mes actual en cifras: ";
 
 let btnEnv = document.getElementById("BtnEnviar");
